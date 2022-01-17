@@ -1,0 +1,58 @@
+:root{
+    --dark:#2b3743;
+    --light:hsl(0, 0%, 93%);
+}
+.backgroundDark{
+    background-color:var(--dark);
+     /* padding-top: 13.5%; */
+    padding-bottom: 12.5%; 
+}
+.backgroundLight{
+    background-color: var(--light);
+    /* background-color: white; */
+    /* padding-top: 13.5%;
+    padding-bottom: 5%; */
+}
+.pic{
+    background-color:#548ca8
+}
+.hor{
+    margin-bottom: 5%;
+    margin-left: 10%;
+    width: 75%;
+    border-top: 1px solid white;
+}
+.horTwo{
+    margin-bottom: 5%;
+    margin-left: 10%;
+    width: 85%;
+    border-top: 1px solid black;
+    
+}
+.horThree{
+    margin-bottom: 5%;
+    margin-left: 10%;
+    width: 84%;
+    border-top: 1px solid black;
+}
+
+.horFour{
+    margin-bottom: 5%;
+    margin-left: 10%;
+    width: 76%;
+    border-top: 1px solid black;
+}
+.in{
+    z-index: 1;
+    height: 20px !important;}
+.im{
+    border-radius: 80%;
+    margin-right: 5%;
+    margin-top: 4%;
+    margin-left: 25% !important;
+    margin-bottom: 15%;
+}
+
+.name{
+    margin-bottom: 16% !important;
+}
